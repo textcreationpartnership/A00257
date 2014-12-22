@@ -35,9 +35,13 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Body#####
-The true discripcion of a childe with ruffes borne in the parish of Micheham in the cou[n]tie of Sur
+
+1. ¶ The true discripcion of a Childe with Ruffes borne in the parish of Micheham in the Coūtie of Surrey in the yeere of our Lord. M. D. LXvi.
+
+1. ¶ An Admonition vnto the Reader,
+
 #####Back#####
-The true discripcion of a childe with ruffes borne in the parish of Micheham in the cou[n]tie of Sur
+¶ Imprinted at London by Iohn Allde and Richarde Iohnes and are to be solde at the Long Shop adioini
 **Types of content**
 
   * There are 30 **verse** lines!
